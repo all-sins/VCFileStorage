@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Junior .NET Full-Stack Engineer position (Job #: 91571) at EPAM, as advertised. With a strong foundation in software development, including extensive experience with Java, I am excited about the opportunity to expand my skills and embrace new technologies as part of your innovative team.
+
+During my previous work in Java development, I gained valuable experience in object-oriented programming, a foundational skill that closely aligns with the principles of C# used in .NET development. Both languages share similarities, such as garbage collection for memory management, which have provided me with a solid basis for exploring new programming paradigms.
+
+My educational background includes attending the Software Development Academy (SDA), which focused primarily on Java development. However, many of the topics covered in the program, such as version control with Git, computer science fundamentals, build automation, and CI/CD practices, are transferable and extendable to languages like C#. This diverse knowledge base allows me to quickly adapt to new technologies and workflows.
+
+In addition to my exposure to .NET at NDC (Norwegian Developers Conference), where I attended a workshop focused on .NET and gained hands-on experience with C#, I also leveraged my C# proficiency in a Unity project. In this project, I actively wrote Animation Controller Interactions and Collision Detection components, along with implementing a simple 2D AI. This experience reinforced my understanding of C# and its applications in diverse development scenarios.
+
+Furthermore, I have honed my scripting skills through experience with PowerShell, which not only shares some aspects with C# but also utilizes similar classes and libraries. This cross-disciplinary knowledge has enriched my ability to tackle complex tasks efficiently and with a deeper appreciation for the underlying technology.
+
+I am particularly passionate about embracing new technologies and staying at the forefront of the ever-evolving tech landscape. This drive to explore and learn aligns perfectly with EPAM's commitment to innovation and digital transformation.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my adaptable skills and passion for technology can contribute to EPAM's mission of helping businesses reimagine themselves in the digital era. Please find my attached resume for your reference.
+
+Sincerely,
+Artūrs Alsiņš
